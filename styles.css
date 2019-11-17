@@ -1,0 +1,26 @@
+body {
+  background-color: whitesmoke;
+  padding: 0;
+  font-family: "Calistonga", cursive;
+}
+.main-title {
+  color: rgb(250, 106, 202);
+  font-size: 40px;
+  text-align: center;
+}
+.buttons-container {
+  margin: auto;
+  text-align: center;
+}
+button {
+  background-color: white;
+  font-family: "Calistonga", cursive;
+  border-radius: 5px;
+}
+.img-container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  margin-top: 20px;
+}
